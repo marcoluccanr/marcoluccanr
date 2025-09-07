@@ -8,9 +8,6 @@ Estou aprendendo programação e tecnologia, e aqui irei mostrar meus projetos.
 - Python
 - Git e GitHub
 
-## Meus projetos
-- [Projeto Exemplo](link-do-repositório)
-
 ## Contato
 - LinkedIn: [seu-link](https://br.linkedin.com/in/marco-lucca-nunes-rodrigues-991765182)
-- 
+  
