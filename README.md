@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! Eu sou o Marco 👋
 
-<!--
-**marcoluccanr/marcoluccanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Técnico de informática e estudante de Análise e Desenvolvimento de Sistemas e atualmente moro em Nova Iorque como intercambista.  
+Estou aprendendo programação e tecnologia, e aqui irei mostrar meus projetos.
 
-Here are some ideas to get you started:
+## Tecnologias que estou aprendendo
+- HTML, CSS, JavaScript
+- Python
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Meus projetos
+- [Projeto Exemplo](link-do-repositório)
+
+## Contato
+- LinkedIn: [seu-link](https://br.linkedin.com/in/marco-lucca-nunes-rodrigues-991765182)
+- 
